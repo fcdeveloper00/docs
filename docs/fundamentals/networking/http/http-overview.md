@@ -21,7 +21,7 @@ Hypertext Transfer Protocol (or HTTP) is a protocol for requesting resources fro
 
 ## HTTP request methods
 
-The request methods are differentiated via several factors, first by their _verb_ but also by the following characteristics:
+
 
 - A request method is **_idempotent_** if it can be successfully processed multiple times without changing the result. For more information, see [RFC 9110: 9.2.2. Idempotent Methods](https://www.rfc-editor.org/rfc/rfc9110.html#name-idempotent-methods).
 - A request method is **_cacheable_** when its corresponding response can be stored for reuse. For more information, see [RFC 9110: Section 9.2.3. Methods and Caching](https://www.rfc-editor.org/rfc/rfc9110.html#name-methods-and-caching).
