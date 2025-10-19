@@ -18,7 +18,7 @@ Two such plugins are included in the 3.2.0 release:
 - An Azure Table implementation: [Microsoft.Orleans.GrainDirectory.AzureStorage](https://www.nuget.org/packages/Microsoft.Orleans.GrainDirectory.AzureStorage)
 - A Redis store implementation: [Microsoft.Orleans.GrainDirectory.Redis](https://www.nuget.org/packages/Microsoft.Orleans.GrainDirectory.Redis)
 
-You can configure which grain directory implementation to use on a per-grain type basis, and you can even inject your implementation.
+
 
 ## Which grain directory should you use?
 
